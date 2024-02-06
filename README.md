@@ -19,6 +19,8 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 In this assigments multiple models were created. We can notice that the final model has best training and validation accuracy. The model overfitting issue is resolved.
 Class rebalance helped in augmentation which further helped in getting the best training and validation accuracy. This final model was used for the prediction on the test data
 and as we see the model predicted accurately.
+Below shows the accuracy and the loss details of the final model
+![image](https://github.com/saritab07/Melanoma-Detection-Using-CNN/assets/97290022/2280b64e-e289-4141-9fff-fe1d83d211c9)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
